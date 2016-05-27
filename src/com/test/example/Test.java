@@ -4,7 +4,9 @@ public class Test {
 	
 	
 public static void main(String[] args) {
-	System.out.println("��һ�β��ԣ�");
+	System.out.println("第一次编辑");
+	System.out.println("第二次编辑");
+	
 }
 
 }
